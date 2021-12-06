@@ -1,5 +1,5 @@
 # pdfhbmk
-Transform pdf files to printeable handbook format
+## Transform pdf files to printeable handbook format
 
 
 
@@ -20,6 +20,7 @@ El script en cuestión es este:
 Lo descargamos y le damos permisos de ejecución:
 
 > $ chmod +x pdfhbmk.sh
+
 Luego de asegurarnos de tener instalado poppler en nuestro sistema lo podemos usar así:
 
 > $ ./pdfhbmk.sh libro.pdf
