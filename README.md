@@ -32,3 +32,8 @@ La ejecución del script nos dará como resultado un documento del tipo: handboo
 Este lo podemos imprimir a doble cara. Una vez impreso, cortamos todas la hojas por la mitad (a lo ancho) para obtener cada pagina separada (en tamaño A5) y en 2 montones, luego tomamos el 1er montón y lo colocamos sobre el 2do montón. Anillamos o encuadernamos el resultado y tenemos nuestro libro de mano.
 
 
+## Instalacion
+Puede requerir pdfjam y otras librerias. 
+Desde ubuntu: 
+> sudo apt-get install texlive-extra-utils 
+
