@@ -37,3 +37,5 @@ Puede requerir pdfjam y otras librerias.
 Desde ubuntu: 
 > sudo apt-get install texlive-extra-utils 
 
+### Alternativa
+> pdfbook --short-edge libro.pdf
